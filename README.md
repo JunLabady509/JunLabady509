@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JunLabady509
-- 👀 I’m interested in anything talking about CyberSecurity, Computer Science, Hacking
+- 👀 I’m interested in anything talking about CyberSecurity, Computer Science, Coding, Hacking
 - 🌱 I’m currently learning Informatic Science at ESGI
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
